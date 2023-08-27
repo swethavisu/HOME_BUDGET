@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HOME BUDGET</string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="label">label</string>
+</resources>
